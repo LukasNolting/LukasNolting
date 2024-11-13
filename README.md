@@ -1,21 +1,3 @@
-<h1 align="center">Hi 👋, I'm @LukasNolting</h1>
-<h3 align="center">A passionate full-stack developer from Germany</h3>
-
-## What I'm Currently Learning 📚
-I am currently deepening my skills in backend development with Node.js and Express, and exploring TypeScript.
-
-**Specific technologies/tools/frameworks:**  
-Languages: JavaScript, TypeScript, Python, SQL<br><br>
-Frameworks: Angular, Django<br><br>
-Tools: Git, Figma, Trello, VS Code
-
-**Best practices and principles:**  
-I'm focused on mastering full-stack development practices, emphasizing clean code, scalability, and optimizing user experiences.
-
-- 👨💻 You can check out some of my other projects on my [GitHub](https://github.com/LukasNolting).
-
-- 📫 Reach me at **info@lukas-nolting.eu**<br><br>
-
 ![GitHub Snake animation](https://raw.githubusercontent.com/LukasNolting/snk/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Languages and Tools:</h3>
