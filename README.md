@@ -5,19 +5,18 @@
 I am currently deepening my skills in backend development with Node.js and Express, and exploring TypeScript.
 
 **Specific technologies/tools/frameworks:**  
-Languages: JavaScript, TypeScript, Python<br><br>
-Frameworks: React, Express, Django<br><br>
+Languages: JavaScript, TypeScript, Python, SQL<br><br>
+Frameworks: Angular, Django<br><br>
 Tools: Git, Figma, Trello, VS Code
 
 **Best practices and principles:**  
 I'm focused on mastering full-stack development practices, emphasizing clean code, scalability, and optimizing user experiences.
 
-## I'm currently working on 🛠
-I'm building a video streaming platform clone (Videoflix) with a team, using Angular for the frontend and Django for the backend.
-
 - 👨💻 You can check out some of my other projects on my [GitHub](https://github.com/LukasNolting).
 
 - 📫 Reach me at **info@lukas-nolting.eu**<br><br>
+
+![GitHub Snake animation](https://github.com/LukasNolting/snk/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
