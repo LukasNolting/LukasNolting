@@ -41,4 +41,5 @@
 
 ![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en)<br>
 
-![Lukas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukasNolting&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukasNolting&theme=dark)](https://git.io/streak-stats)
+
