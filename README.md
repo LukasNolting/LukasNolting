@@ -36,7 +36,7 @@
   </a>
 </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact)](https://github.com/LukasNolting)<br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact)](https://github.com/LukasNolting)<br>
 
 [![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en)](https://github.com/LukasNolting)<br>
