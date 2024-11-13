@@ -35,6 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LukasNolting&theme=dark&border_radius=1" alt="GitHub Streak" /></a>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact)<br>
