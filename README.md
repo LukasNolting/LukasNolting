@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Lukas Nolting!
 
-<!--
-**LukasNolting/LukasNolting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a passion for building impactful applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=radical)
+
+## 🔗 Connect with me
+- [LinkedIn](https://linkedin.com/in/lukasnolting)
+- [Twitter](https://twitter.com/lukasnolting)
