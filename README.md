@@ -1,5 +1,4 @@
 ![GitHub Snake animation](https://raw.githubusercontent.com/LukasNolting/snk/output/github-contribution-grid-snake-dark.svg)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -36,8 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
-<br><br>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact)](https://github.com/LukasNolting)<br>
 
 [![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en)](https://github.com/LukasNolting)<br>
