@@ -16,7 +16,7 @@ I'm focused on mastering full-stack development practices, emphasizing clean cod
 
 - 📫 Reach me at **info@lukas-nolting.eu**<br><br>
 
-![GitHub Snake animation](https://github.com/LukasNolting/snk/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/LukasNolting/snk/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
