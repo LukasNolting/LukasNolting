@@ -52,7 +52,7 @@ I'm building a video streaming platform clone (Videoflix) with a team, using Ang
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)" alt="django" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
 <br><br>
