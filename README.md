@@ -6,6 +6,5 @@
 
 <br>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact) | ![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en) |
+| ![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact) |
 | --- | --- |
-
