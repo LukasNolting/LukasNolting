@@ -12,10 +12,10 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left" width="50%">
+    <td align="left" width="50%" border="0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact" />
     </td>
-    <td align="right" width="50%">
+    <td align="right" width="50%" border="0">
       <img src="https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en" />
     </td>
   </tr>
