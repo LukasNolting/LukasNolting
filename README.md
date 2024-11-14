@@ -6,7 +6,7 @@
 
 <br>
 
-<div style="display: flex;">
+<div style="display: flex !important; gap: 20px !important;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact)
 
