@@ -10,7 +10,7 @@
 
 
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td align="left" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact" />
@@ -20,3 +20,4 @@
     </td>
   </tr>
 </table>
+
