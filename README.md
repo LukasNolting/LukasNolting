@@ -7,3 +7,16 @@
  ---  --- 
  
  ![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en)  <img width="40" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact) 
+
+
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en" />
+    </td>
+  </tr>
+</table>
