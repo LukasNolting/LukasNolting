@@ -1,7 +1,5 @@
 ![GitHub Snake animation](https://raw.githubusercontent.com/LukasNolting/snk/output/github-contribution-grid-snake-dark.svg)
 
- ---  --- 
-
 ## 🌐 Webtechnologien  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -34,9 +32,7 @@
 
 ## 🚀 Arbeitsmethoden  
 ![SCRUM](https://img.shields.io/badge/SCRUM-%230C4A33.svg?style=for-the-badge&logo=agile&logoColor=white) 
-
- ---  --- 
  
- ![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en)  <img width="40" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact) 
+![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en)  <img width="40" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact) 
 
 
