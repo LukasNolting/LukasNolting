@@ -1,8 +1,6 @@
 ![GitHub Snake animation](https://raw.githubusercontent.com/LukasNolting/snk/output/github-contribution-grid-snake-dark.svg)
 
  ---  --- 
- 
-# Mein GitHub Profil
 
 ## 🌐 Webtechnologien  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
