@@ -38,4 +38,6 @@
  
 ![Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasNolting&show_icons=true&theme=dark&locale=en)  <img width="40" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LukasNolting&show_icons=true&theme=dark&locale=en&layout=compact) 
 
-
+<div style="display: flex; gap: 5px;">
+   <h3>📊 GitHub Stats:</h3><a href=""><img src="https://visitcount.itsvg.in/api?id=LukasNolting&icon=2&color=4" alt="Visit Count"/></a>
+</div>
